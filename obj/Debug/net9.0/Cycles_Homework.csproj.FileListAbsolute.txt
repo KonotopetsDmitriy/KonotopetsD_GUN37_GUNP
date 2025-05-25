@@ -1,0 +1,14 @@
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/bin/Debug/net9.0/Cycles_Homework
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/bin/Debug/net9.0/Cycles_Homework.deps.json
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/bin/Debug/net9.0/Cycles_Homework.runtimeconfig.json
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/bin/Debug/net9.0/Cycles_Homework.dll
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/bin/Debug/net9.0/Cycles_Homework.pdb
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/Debug/net9.0/Cycles_Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/Debug/net9.0/Cycles_Homework.AssemblyInfoInputs.cache
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/Debug/net9.0/Cycles_Homework.AssemblyInfo.cs
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/Debug/net9.0/Cycles_Homework.csproj.CoreCompileInputs.cache
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/Debug/net9.0/Cycles_Homework.dll
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/Debug/net9.0/refint/Cycles_Homework.dll
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/Debug/net9.0/Cycles_Homework.pdb
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/Debug/net9.0/Cycles_Homework.genruntimeconfig.cache
+/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/Debug/net9.0/ref/Cycles_Homework.dll

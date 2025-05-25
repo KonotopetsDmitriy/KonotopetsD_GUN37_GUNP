@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dima/RiderProjects/Homework_Arrays/Homework_Arrays/Homework_Arrays.csproj": {}
+    "/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/Cycles_Homework.csproj": {}
   },
   "projects": {
-    "/Users/dima/RiderProjects/Homework_Arrays/Homework_Arrays/Homework_Arrays.csproj": {
+    "/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/Cycles_Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dima/RiderProjects/Homework_Arrays/Homework_Arrays/Homework_Arrays.csproj",
-        "projectName": "Homework_Arrays",
-        "projectPath": "/Users/dima/RiderProjects/Homework_Arrays/Homework_Arrays/Homework_Arrays.csproj",
+        "projectUniqueName": "/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/Cycles_Homework.csproj",
+        "projectName": "Cycles_Homework",
+        "projectPath": "/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/Cycles_Homework.csproj",
         "packagesPath": "/Users/dima/.nuget/packages/",
-        "outputPath": "/Users/dima/RiderProjects/Homework_Arrays/Homework_Arrays/obj/",
+        "outputPath": "/Users/dima/RiderProjects/Cycles_Homework/Cycles_Homework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dima/.nuget/NuGet/NuGet.Config"
