@@ -1,0 +1,14 @@
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/bin/Debug/net9.0/Homework_Classes
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/bin/Debug/net9.0/Homework_Classes.deps.json
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/bin/Debug/net9.0/Homework_Classes.runtimeconfig.json
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/bin/Debug/net9.0/Homework_Classes.dll
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/bin/Debug/net9.0/Homework_Classes.pdb
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/obj/Debug/net9.0/Homework_Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/obj/Debug/net9.0/Homework_Classes.AssemblyInfoInputs.cache
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/obj/Debug/net9.0/Homework_Classes.AssemblyInfo.cs
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/obj/Debug/net9.0/Homework_Classes.csproj.CoreCompileInputs.cache
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/obj/Debug/net9.0/Homework_Classes.dll
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/obj/Debug/net9.0/refint/Homework_Classes.dll
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/obj/Debug/net9.0/Homework_Classes.pdb
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/obj/Debug/net9.0/Homework_Classes.genruntimeconfig.cache
+/Users/dima/RiderProjects/Homework_Classes/Homework_Classes/obj/Debug/net9.0/ref/Homework_Classes.dll

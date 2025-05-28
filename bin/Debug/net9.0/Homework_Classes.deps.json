@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "Cycles_Homework/1.0.0": {
+      "Homework_Classes/1.0.0": {
         "runtime": {
-          "Cycles_Homework.dll": {}
+          "Homework_Classes.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Cycles_Homework/1.0.0": {
+    "Homework_Classes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
