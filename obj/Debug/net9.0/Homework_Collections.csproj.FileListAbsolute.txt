@@ -1,0 +1,14 @@
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/bin/Debug/net9.0/Homework_Collections
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/bin/Debug/net9.0/Homework_Collections.deps.json
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/bin/Debug/net9.0/Homework_Collections.runtimeconfig.json
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/bin/Debug/net9.0/Homework_Collections.dll
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/bin/Debug/net9.0/Homework_Collections.pdb
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/Debug/net9.0/Homework_Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/Debug/net9.0/Homework_Collections.AssemblyInfoInputs.cache
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/Debug/net9.0/Homework_Collections.AssemblyInfo.cs
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/Debug/net9.0/Homework_Collections.csproj.CoreCompileInputs.cache
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/Debug/net9.0/Homework_Collections.dll
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/Debug/net9.0/refint/Homework_Collections.dll
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/Debug/net9.0/Homework_Collections.pdb
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/Debug/net9.0/Homework_Collections.genruntimeconfig.cache
+/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/Debug/net9.0/ref/Homework_Collections.dll
