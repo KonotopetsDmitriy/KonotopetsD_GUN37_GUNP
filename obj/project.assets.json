@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/Homework_Collections.csproj",
-      "projectName": "Homework_Collections",
-      "projectPath": "/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/Homework_Collections.csproj",
+      "projectUniqueName": "/Users/dima/RiderProjects/Homework Strings and Symbols/Homework Strings and Symbols/Homework Strings and Symbols.csproj",
+      "projectName": "Homework Strings and Symbols",
+      "projectPath": "/Users/dima/RiderProjects/Homework Strings and Symbols/Homework Strings and Symbols/Homework Strings and Symbols.csproj",
       "packagesPath": "/Users/dima/.nuget/packages/",
-      "outputPath": "/Users/dima/RiderProjects/Homework_Collections/Homework_Collections/obj/",
+      "outputPath": "/Users/dima/RiderProjects/Homework Strings and Symbols/Homework Strings and Symbols/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dima/.nuget/NuGet/NuGet.Config"
